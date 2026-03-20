@@ -1,40 +1,55 @@
 {
-  "generated_at": "2026-03-19T07:47:13.960539Z",
+  "generated_at": "2026-03-20T07:46:49.394885Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "latest_date": "2026-03-18",
-  "count_today": 5,
+  "latest_date": "2026-03-20",
+  "count_today": 1,
   "updates_today": [
     {
-      "date": "2026-03-18",
-      "title": "这篇文章来自 Anthropic 内部团队的实战总结。Anthropic 内部活跃使用的 Skills 已经有几百个，文中的分类体系和编写技巧都是从这些真实的内部实践中提炼出来的。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-03-18",
-      "title": "谷歌官方发布五大Agent Skill设计模式并搭配可直接复用的代码示例，可以帮助开发者搭建稳定高效的智能体工作流。这套实战方法论或许也能帮你告别冗长杂乱的提示词，快速构建标准化、可复用的Agent，提升可靠性与开发效率。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-03-18",
-      "title": "养虾的最高境界，就是能养出每个组织（现在一个人OPC也是组织）里可以完美fit in业务场景的Agents。虽然虾各不同，但总是会存在一些非常重要基础设施明显优于绝大多数其他同类的。今天这篇文章给大家介绍视频下载界的瑞士军刀yt-dlp，它可以下载1700个网站的视频；如果你的工作流经常围绕视频展开（下载视频，提取音频，抽取文本，二次加工等等），你必然不能错过 yt-dlp。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-03-18",
-      "title": "《 Builders Unscripted 》是OpenAI官方推出的一档聚焦顶尖开发者的硬核对谈节目。在2026年2月25日首期节目中， Peter Steinberger 围绕 OpenClaw 、他在开源领域的历程，以及如何借助Codex进行构建展开了深入解析。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-03-18",
-      "title": "MiniMax M2.7模型发布，是MiniMax第一个模型深度参与迭代自己的模型。它能够自行构建复杂Agent Harness，并基于Agent Teams、复杂Skills、Tool Search tool 等能力，完成高度复杂的生产力任务。快来一起看看具体迭代了哪些内容！",
+      "date": "2026-03-20",
+      "title": "作为一个Claude Code的深度用户，我一直被它没有记忆的事情折磨着。每开一个对话，我都得想办法告诉它我是谁、我在做什么项目、现在的进度是什么样子的，每次都得跟AI讲半天背景是什么，这样才能让它不跑偏。之前在研究龙虾源码的时候，发现龙虾的记忆逻辑做的蛮有趣的，我参考着龙虾的记忆思路，给我自己的Claude Code做了一套记忆系统。希望对你也有所帮助！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 35,
+  "count_7d": 36,
   "updates_7d": [
+    {
+      "date": "2026-03-20",
+      "title": "作为一个Claude Code的深度用户，我一直被它没有记忆的事情折磨着。每开一个对话，我都得想办法告诉它我是谁、我在做什么项目、现在的进度是什么样子的，每次都得跟AI讲半天背景是什么，这样才能让它不跑偏。之前在研究龙虾源码的时候，发现龙虾的记忆逻辑做的蛮有趣的，我参考着龙虾的记忆思路，给我自己的Claude Code做了一套记忆系统。希望对你也有所帮助！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-03-19",
+      "title": "这篇文章带大家了解下Google Stitch这个产品是做什么的以及怎么更好的使用它。简单说，Stitch 就是\"你说，它画\"。告诉它你想要什么界面，它直接给你出设计稿，还支持导出到 Figma、AI Studio 等工具里。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-03-19",
+      "title": "这篇文章主要讲 Agent 架构里几块最影响工程效果的内容，包括控制流、上下文工程、工具设计、记忆、多 Agent 组织、评测、追踪和安全，最后再用 OpenClaw 的实现把这些设计原则串起来看一遍。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-03-19",
+      "title": "有没有想过，为什么有些人用OpenClaw特别顺手，三两下就能搞定复杂的活儿，而你让小龙虾帮忙做事，它总是\"听不懂人话\"？秘密就藏在一个叫Skill的小东西里。今天咱们用大白话聊聊这个 Skill 到底是啥，怎么用，保证你看完就能明白。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-03-19",
+      "title": "今天，飞书举办 2026 年春季新品发布会。这场发布会 形式罕见 ：全程纯 Demo，没有 PPT。一共发布了 8 款产品，核心只有一件事： 让每个人在飞书里拥有自己的智能伙伴。发布的产品包括：飞书 aily（智能伙伴）、aily 专业版、飞书妙搭、多维表格 AI 搭建、AI 同传、会中 AI 纪要、安克 AI 录音豆、AnyGen × Lark（海外版）。让我们一同一览详情！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-03-19",
+      "title": "Max Brodeur-Urbas 是 Gumloop 的联合创始人兼 CEO。这家公司刚拿了 Benchmark 领投的 5000 万美元 B 轮融资 ，客户包括 Instacart、Shopify、DoorDash、Gusto。在这之前，他是微软的一名普通工程师，因为过边境被遣返而被迫走上创业这条路。这次访谈来自 YouTube 频道 EO（Entrepreneur & Opportunities），来看看他都分享了哪些内容！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-03-19",
+      "title": "Google 的 AI 设计工具 Stitch 昨天发了一次大更新，从 Labs 实验项目正式升级为 AI 原生设计平台。这次不是加个小功能那种升级，是整个产品形态变了。从一个\"用 AI 生成 UI 图片\"的工具，直接进化成了一个 AI 原生的软件设计平台。Google 给这个新方向起了个名字，叫 Vibe Design。让我们一同一探究竟！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-03-18",
       "title": "这篇文章来自 Anthropic 内部团队的实战总结。Anthropic 内部活跃使用的 Skills 已经有几百个，文中的分类体系和编写技巧都是从这些真实的内部实践中提炼出来的。",
@@ -178,36 +193,6 @@
     {
       "date": "2026-03-14",
       "title": "Box 的 CEO Aaron Levie 写了篇长文，标题直接叫\"Building for trillions of agents\"（为万亿个 Agent 而建）。他是一家年收入12 亿美元的企业软件公司 CEO，每天要面对真实客户的真实需求。他的核心观点就一句话： 未来软件最大的用户群，不是人类，是 Agent。一家公司里 Agent 的数量可能是员工的 100 到 1000 倍，全球加起来会有数万亿个。让我们一同来一探究竟！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-03-13",
-      "title": "最近发现好多刚入坑的小伙伴在部署OpenClaw的时候，第一步就卡住了——配置大模型API。今天专门给同样卡在这关的你写个秒懂教程，手把手带你过这关！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-03-13",
-      "title": "最近OpenClaw火的一塌糊涂， 那么我相信只要接触过OpenClaw一段时间的人，基本都会听过一个词： Skill 。你可以不断地给AI加很多的Skill ，让它会更多技能。 但很多时候，真正卡住你的，不是它不会，而是它一个人做不了太多的事情。这时候，真正该上场的，不再是Skill了， 而是另一个重要的东西，就是SubAgent 。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-03-13",
-      "title": "想让AI编程效率翻倍？这份智能体工程8级进阶指南或许可以帮助你！从基础的Tab补全、智能体IDE，到上下文工程、复合工程，再到MCP与技能、Harness工程，最终抵达后台智能体与自主智能体团队，每一级都藏着生产力跃迁的关键。文中还分享了Dispatch等实战工具、多模型协作技巧，可以帮你避开只依赖工具却无实质提升的坑，真正释放AI编程的核心潜力。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-03-13",
-      "title": "如果文本提取的准确度，这一步做不准，后面再强的分析、检索、生成，基本都白费。作者用同一套测试样本, 让 DeepSeek-OCR-2、PaddleOCR-VL-1.5、GLM-OCR 三个模型，跑了表格、扫描件、手写体、数学公式 四个场景的多轮实测。快来一探究竟！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-03-13",
-      "title": "大公司是如何规模化落地AI研发的呢？Uber的实战方案很有参考价值！它搭建了四层智能体系统，靠MCP网关、Agent Builder、Minion等工具打通全流程，用Code Inbox、uReview解决AI时代代码审查的痛点。如今84%的Uber开发者用智能体编程，65-72%代码由AI生成，Claude Code使用率三月翻倍，工程师每周平均省4小时。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-03-13",
-      "title": "今天这篇文章源于最近半年深度使用 Claude Code、两个账号每月 40 刀氪金换来的一些踩坑经验，希望能给大伙一些输入。这篇文章想和大伙聊聊这几个事：Claude Code 底层怎么运作、上下文为什么会乱以及怎么治理、Skills 和 Hooks 应该怎么设计、Subagents 的正确用法、Prompt Caching 的架构影响，以及怎么写一个真正有用的 CLAUDE.md。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
