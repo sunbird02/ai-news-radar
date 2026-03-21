@@ -1,23 +1,63 @@
 {
-  "generated_at": "2026-03-20T07:46:49.394885Z",
+  "generated_at": "2026-03-21T07:33:20.698281Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-03-20",
-  "count_today": 1,
+  "count_today": 5,
   "updates_today": [
+    {
+      "date": "2026-03-20",
+      "title": "每次使用ChatGPT或Claude时，你肯定都注意到第一个词元出现的时间明显更长，随后其余的词元几乎瞬间就会涌出。在幕后，这是一个被称为KV缓存精心设计的工程决策，目的是让大语言模型（LLM）推理速度更快。现在让我们从第一性原理出发，来了解它是如何运作的。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-03-20",
+      "title": "既然我们选择基于 OpenClaw 来体验个人智能体的进化之旅，那所有自定义改造，最好都能在它每一次升级中吃到红利。即使中间有个别小版本回退，长期趋势也应该是顺势而上，不要越改越偏最后只好硬分叉。所以在真正动手优化记忆系统之前，得先理解 OpenClaw 的底层理念： Local First、Files are the source of truth、File Over App 。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-03-20",
+      "title": "作者整理了50条Claude Code的最佳实践和技巧，无论你是刚使用一周还是已经用了几个月，这些都能有所帮助，它们的来源包括Anthropic的官方文档、Boris Cherny（Claude Code的开发者）、社区经验以及作者自己一年的日常使用心得。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-03-20",
       "title": "作为一个Claude Code的深度用户，我一直被它没有记忆的事情折磨着。每开一个对话，我都得想办法告诉它我是谁、我在做什么项目、现在的进度是什么样子的，每次都得跟AI讲半天背景是什么，这样才能让它不跑偏。之前在研究龙虾源码的时候，发现龙虾的记忆逻辑做的蛮有趣的，我参考着龙虾的记忆思路，给我自己的Claude Code做了一套记忆系统。希望对你也有所帮助！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-03-20",
+      "title": "AI 发展日新月异，急速迭代，概念/技术/产品层出不穷。但是当前工作繁重（工作本身跟 AI 直接关系不大），即便是很多比较流行的 AI 相关的东西，也不可能都花时间去了解/理解/深度使用研究。一方面希望跟上 AI 的浪潮，另一方面目前的精力又不允许。哪些原则可以辅助做以下判断：“哪些东西不必花时间/哪些东西简单了解即可/哪些东西需要花一些时间去学习/哪些有必要深度使用学习”，以及为什么有这个原则",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 36,
+  "count_7d": 33,
   "updates_7d": [
     {
       "date": "2026-03-20",
+      "title": "每次使用ChatGPT或Claude时，你肯定都注意到第一个词元出现的时间明显更长，随后其余的词元几乎瞬间就会涌出。在幕后，这是一个被称为KV缓存精心设计的工程决策，目的是让大语言模型（LLM）推理速度更快。现在让我们从第一性原理出发，来了解它是如何运作的。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-03-20",
+      "title": "既然我们选择基于 OpenClaw 来体验个人智能体的进化之旅，那所有自定义改造，最好都能在它每一次升级中吃到红利。即使中间有个别小版本回退，长期趋势也应该是顺势而上，不要越改越偏最后只好硬分叉。所以在真正动手优化记忆系统之前，得先理解 OpenClaw 的底层理念： Local First、Files are the source of truth、File Over App 。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-03-20",
+      "title": "作者整理了50条Claude Code的最佳实践和技巧，无论你是刚使用一周还是已经用了几个月，这些都能有所帮助，它们的来源包括Anthropic的官方文档、Boris Cherny（Claude Code的开发者）、社区经验以及作者自己一年的日常使用心得。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-03-20",
       "title": "作为一个Claude Code的深度用户，我一直被它没有记忆的事情折磨着。每开一个对话，我都得想办法告诉它我是谁、我在做什么项目、现在的进度是什么样子的，每次都得跟AI讲半天背景是什么，这样才能让它不跑偏。之前在研究龙虾源码的时候，发现龙虾的记忆逻辑做的蛮有趣的，我参考着龙虾的记忆思路，给我自己的Claude Code做了一套记忆系统。希望对你也有所帮助！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-03-20",
+      "title": "AI 发展日新月异，急速迭代，概念/技术/产品层出不穷。但是当前工作繁重（工作本身跟 AI 直接关系不大），即便是很多比较流行的 AI 相关的东西，也不可能都花时间去了解/理解/深度使用研究。一方面希望跟上 AI 的浪潮，另一方面目前的精力又不允许。哪些原则可以辅助做以下判断：“哪些东西不必花时间/哪些东西简单了解即可/哪些东西需要花一些时间去学习/哪些有必要深度使用学习”，以及为什么有这个原则",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
@@ -158,41 +198,6 @@
     {
       "date": "2026-03-15",
       "title": "ElevenLabs 绝对是今年 AI 多模态领域收入增长最快的公司之一，据称最新ARR高达3.3亿美金， 而从2亿美金到3.3亿只用了5 个月时间，同时在今年2月完成了D轮融资，估值110亿美金 。很有意思的是，公司的产品与增长没有走垂直深耕的传统路线，而是以通用技术+多线产品快速扩张。把视频营销、系统化发布与渠道运营做成低成本增长杠杆，再通过组织的创新与 AI 赋能良性扩张。ElevenLabs 增长负责人 Luke Harries ，完整还了原其从 0 到百亿估值的实战打法。希望能为大家带来帮助！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-03-14",
-      "title": "这段时间除了有各种 OpenClaw（龙虾）的倡导事件，业内还有一些警告提醒，截至 2026 年 3 月 14 日，OpenClaw 在国内遭遇密集的安全预警和使用限制。本文梳理了从国家级监管机构、金融行业到高等院校各层级已公开的限制措施。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-03-14",
-      "title": "这款基于布鲁姆掌握学习法的AI私教系统，可以让你实现高效自学。依托Claude Code实现本地文件交互，通过“阅读—标注疑问—作答反馈—AI迭代新课”的闭环，精准适配你的理解节奏。系统自带多领域课题，也可以自定义学习方向，所有数据都在本地留存，安全可控。AI会自动复盘错题、解答疑惑、调整难度，最终生成专属知识总结。30分钟即可上手，快来试试！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-03-14",
-      "title": "本文档为 OpenClaw 完整命令手册，涵盖终端 CLI 命令和频道斜杠命令两大部分。或许会有你用得到的！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-03-14",
-      "title": "作者这篇文章带大家一同了解下他是如何拯救OpenClaw的记忆。这是一个循序渐进的过程，演进的主线大致为：Markdown 记忆文件分层分类 → 从主动记录到心跳补漏 → 夜间反思知识整理 → QMD 增强记忆搜索 → Context Engineering 适配 → 利用 SQLite 回顾一天的摘要 → Memory deep search 混合检索。会分多篇来讲养的经验教训，希望对大家有帮助。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-03-14",
-      "title": "OpenClaw等AI工具已成为超级杠杆，而很多人却还在用“忙”掩盖不愿行动的真相。小鱿鱼以自身拖延年终总结的经历为例，帮你打破拖延惯性，不让未来的自己留下遗憾。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-03-14",
-      "title": "Dario Amodei 是 Anthropic 公司核心负责人，深耕 AI 大模型研发领域，对模型缩放、技术发展趋势有着极具前瞻性的判断，主导了 Claude 系列模型的技术研发与落地， Dwarkesh Patel 是资深科技访谈者，聚焦 AI 领域前沿对话，挖掘行业核心发展议题。本次访谈于 2026 年 2 月 14 日开展，围绕 AI 技术指数增长尾声、模型缩放假说、 RL 发展等核心问题展开，深入探讨 AI 技术落地与经济渗透的关键议题，分享了对 AI 行业发展趋势的独到见解与实践思考。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-03-14",
-      "title": "Box 的 CEO Aaron Levie 写了篇长文，标题直接叫\"Building for trillions of agents\"（为万亿个 Agent 而建）。他是一家年收入12 亿美元的企业软件公司 CEO，每天要面对真实客户的真实需求。他的核心观点就一句话： 未来软件最大的用户群，不是人类，是 Agent。一家公司里 Agent 的数量可能是员工的 100 到 1000 倍，全球加起来会有数万亿个。让我们一同来一探究竟！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
