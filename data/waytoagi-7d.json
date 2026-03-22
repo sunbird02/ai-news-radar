@@ -1,40 +1,75 @@
 {
-  "generated_at": "2026-03-21T07:33:20.698281Z",
+  "generated_at": "2026-03-22T07:38:47.781996Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "latest_date": "2026-03-20",
-  "count_today": 5,
+  "latest_date": "2026-03-21",
+  "count_today": 6,
   "updates_today": [
     {
-      "date": "2026-03-20",
-      "title": "每次使用ChatGPT或Claude时，你肯定都注意到第一个词元出现的时间明显更长，随后其余的词元几乎瞬间就会涌出。在幕后，这是一个被称为KV缓存精心设计的工程决策，目的是让大语言模型（LLM）推理速度更快。现在让我们从第一性原理出发，来了解它是如何运作的。",
+      "date": "2026-03-21",
+      "title": "阿真这篇文章不讲那些更深奥的进阶知识。只分享她自己的一个超级适合小白且好用的写出自己需要的 Skill 的方法。当安装了这个 Skill 之后，你说“我想要通过访谈来新建 Skill”，这个 Skill 就会开始和你沟通，一步步向你提问。 然后在整个对话的过程中，它会逐步梳理清楚你的需求并输出 Skill。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-03-20",
-      "title": "既然我们选择基于 OpenClaw 来体验个人智能体的进化之旅，那所有自定义改造，最好都能在它每一次升级中吃到红利。即使中间有个别小版本回退，长期趋势也应该是顺势而上，不要越改越偏最后只好硬分叉。所以在真正动手优化记忆系统之前，得先理解 OpenClaw 的底层理念： Local First、Files are the source of truth、File Over App 。",
+      "date": "2026-03-21",
+      "title": "这位 OpenAI 联合创始成员、前 Tesla AI 总监，现在是独立 AI 研究者和 Eureka Labs 创始人。他最近做客 Sarah Guo 的 No Priors 播客，聊了编码 Agent 如何改变工程师的日常、AutoResearch 与递归自我改进、AI 的“参差不齐”、开源与闭源的力量对比、物理世界 vs 数字世界的节奏差异，以及 Agent 时代教育的未来。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-03-20",
-      "title": "作者整理了50条Claude Code的最佳实践和技巧，无论你是刚使用一周还是已经用了几个月，这些都能有所帮助，它们的来源包括Anthropic的官方文档、Boris Cherny（Claude Code的开发者）、社区经验以及作者自己一年的日常使用心得。",
+      "date": "2026-03-21",
+      "title": "越来越多的岗位遭受到AI的冲击，这篇文章，作者想和所有画师、艺术生、创作者认真聊聊这件事。不是为了安慰你，而是想陪你把这件事真正想清楚。让你在时代变革中找准定位，化冲击为进阶动力。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-03-20",
-      "title": "作为一个Claude Code的深度用户，我一直被它没有记忆的事情折磨着。每开一个对话，我都得想办法告诉它我是谁、我在做什么项目、现在的进度是什么样子的，每次都得跟AI讲半天背景是什么，这样才能让它不跑偏。之前在研究龙虾源码的时候，发现龙虾的记忆逻辑做的蛮有趣的，我参考着龙虾的记忆思路，给我自己的Claude Code做了一套记忆系统。希望对你也有所帮助！",
+      "date": "2026-03-21",
+      "title": "大家对 OpenClaw 在企业管理端的想象力，明显比业务端弱。其实跨境公司的管理问题一点不比业务小：员工流失、知识断层、数据滞后、达人管理混乱，每一件都能搞垮一个正在增长的公司。饼干哥哥这篇文章就把他们团队真实在跑的几个场景拆开讲解，看看这千亿市场到底要怎么做？",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-03-20",
-      "title": "AI 发展日新月异，急速迭代，概念/技术/产品层出不穷。但是当前工作繁重（工作本身跟 AI 直接关系不大），即便是很多比较流行的 AI 相关的东西，也不可能都花时间去了解/理解/深度使用研究。一方面希望跟上 AI 的浪潮，另一方面目前的精力又不允许。哪些原则可以辅助做以下判断：“哪些东西不必花时间/哪些东西简单了解即可/哪些东西需要花一些时间去学习/哪些有必要深度使用学习”，以及为什么有这个原则",
+      "date": "2026-03-21",
+      "title": "在 OpenClaw 的使用者里，有一条隐形的分界线。一边的人，每次跟 Agent 说话都像重新 onboarding：得再讲一遍背景、偏好和上下文。另一边的人，Agent 已经知道自己是谁、该怎么说话、用户讨厌什么，也记得上次积累下来的东西。这条分界线，叫 workspace 。更具体一点，就是默认情况下主 Agent 用的 ~/.openclaw/workspace/ 这一套文件(sub-agent也适用)。下面这篇文章，就把这套文件逐个拆开，说清楚它们各自管什么，以及最容易踩的坑是什么。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-03-21",
+      "title": "Telegram/Discord 的消息收发本身就需要特殊网络环境，用起来多了一层麻烦。这次我们不用官方插件了——直接自己动手写一个飞书（Lark）Channel 插件 ，让 Claude Code 变成你的飞书机器人。在地铁上、在床上、在马桶上，随时随地给 Claude 发消息让它帮你写代码！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 33,
+  "count_7d": 32,
   "updates_7d": [
+    {
+      "date": "2026-03-21",
+      "title": "阿真这篇文章不讲那些更深奥的进阶知识。只分享她自己的一个超级适合小白且好用的写出自己需要的 Skill 的方法。当安装了这个 Skill 之后，你说“我想要通过访谈来新建 Skill”，这个 Skill 就会开始和你沟通，一步步向你提问。 然后在整个对话的过程中，它会逐步梳理清楚你的需求并输出 Skill。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-03-21",
+      "title": "这位 OpenAI 联合创始成员、前 Tesla AI 总监，现在是独立 AI 研究者和 Eureka Labs 创始人。他最近做客 Sarah Guo 的 No Priors 播客，聊了编码 Agent 如何改变工程师的日常、AutoResearch 与递归自我改进、AI 的“参差不齐”、开源与闭源的力量对比、物理世界 vs 数字世界的节奏差异，以及 Agent 时代教育的未来。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-03-21",
+      "title": "越来越多的岗位遭受到AI的冲击，这篇文章，作者想和所有画师、艺术生、创作者认真聊聊这件事。不是为了安慰你，而是想陪你把这件事真正想清楚。让你在时代变革中找准定位，化冲击为进阶动力。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-03-21",
+      "title": "大家对 OpenClaw 在企业管理端的想象力，明显比业务端弱。其实跨境公司的管理问题一点不比业务小：员工流失、知识断层、数据滞后、达人管理混乱，每一件都能搞垮一个正在增长的公司。饼干哥哥这篇文章就把他们团队真实在跑的几个场景拆开讲解，看看这千亿市场到底要怎么做？",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-03-21",
+      "title": "在 OpenClaw 的使用者里，有一条隐形的分界线。一边的人，每次跟 Agent 说话都像重新 onboarding：得再讲一遍背景、偏好和上下文。另一边的人，Agent 已经知道自己是谁、该怎么说话、用户讨厌什么，也记得上次积累下来的东西。这条分界线，叫 workspace 。更具体一点，就是默认情况下主 Agent 用的 ~/.openclaw/workspace/ 这一套文件(sub-agent也适用)。下面这篇文章，就把这套文件逐个拆开，说清楚它们各自管什么，以及最容易踩的坑是什么。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-03-21",
+      "title": "Telegram/Discord 的消息收发本身就需要特殊网络环境，用起来多了一层麻烦。这次我们不用官方插件了——直接自己动手写一个飞书（Lark）Channel 插件 ，让 Claude Code 变成你的飞书机器人。在地铁上、在床上、在马桶上，随时随地给 Claude 发消息让它帮你写代码！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-03-20",
       "title": "每次使用ChatGPT或Claude时，你肯定都注意到第一个词元出现的时间明显更长，随后其余的词元几乎瞬间就会涌出。在幕后，这是一个被称为KV缓存精心设计的工程决策，目的是让大语言模型（LLM）推理速度更快。现在让我们从第一性原理出发，来了解它是如何运作的。",
@@ -163,41 +198,6 @@
     {
       "date": "2026-03-16",
       "title": "AIOps三大架构选型指南来了！AI辅助、多智能体协作、AI原生是三种截然不同的系统逻辑。本篇文章深挖了国内外实战案例，拆解了各个模式的收益与风险——从AI辅助的bug隐患，到多智能体的协调挑战，再到AI原生的损失扩大风险。或许你也能从中快速找到适配场景的落地方案，精准提升运维效率。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-03-15",
-      "title": "本文主要讲解OpenClaw内秉的多agents机制如何运作，以及如何安装并运行多agents。很多人第一次看 OpenClaw 的目录结构，都会被绕住。这篇文章就带你先把 OpenClaw 原生概念理解清楚，再搞懂agency-agents 的100多个agents是怎么接到这套体系里的。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-03-15",
-      "title": "最近一篇关于 AI 记忆系统的论文引发了不少讨论，结论是\"检索比存储更重要\"。但如果换一个角度看这个问题，一个更有价值的等式浮出水面： 召回 = 存储 + 检索 。这个等式把\"写进去什么\"和\"找出来什么\"绑在了一起，存储决定了检索的天花板。很多做 RAG 系统的团队都踩过一个坑：精心设计的摘要和事实提取，效果反而不如把原始文本块直接存进去。这篇文章跟着作者一起探究这背后的原因！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-03-15",
-      "title": "或许很多人都会被AI领域的专业术语劝退。明明AI工具那么好用，却因为看不懂文档、搞不懂概念，最后只能遗憾放弃。希望作者的这篇适合普通人阅读的AI术语指南能够帮助到你！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-03-15",
-      "title": "很多人都在用 ChatGPT、Claude、Gemini。但一聊到大语言模型相关概念，就容易被一堆术语绕晕。所以这篇，作者把这些核心概念重新整理成 6 大类，按“概念 + 大白话理解 + 例子”来讲，读起来会更清楚。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-03-15",
-      "title": "OpenClaw靠自身主动记忆极易遗漏混乱，作者的这篇文章给出一套三层记忆工程方案，通过机制兜底解决Agent“记不住、记不全、记不深”的问题。从会话压缩前的Memory Flush自动记录，到每小时心跳扫描补全信息，再到凌晨定时完成全天查漏与深度反思，最终实现日志完整度大幅提升，而且可以沉淀成可复用的经验、决策与项目进展。这套实战架构不仅能直接落地优化OpenClaw，也为所有Agent记忆系统设计提供了可复用思路。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-03-15",
-      "title": "OpenClaw训练营第3课，银海通过几个真实案例，带大家一起看看，AI 表格和飞书多维表格到底能帮我们解决哪些问题，以及如何在十分钟左右的时间里，让 OpenClaw 开始帮你管理数据，快来一起一探究竟！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-03-15",
-      "title": "ElevenLabs 绝对是今年 AI 多模态领域收入增长最快的公司之一，据称最新ARR高达3.3亿美金， 而从2亿美金到3.3亿只用了5 个月时间，同时在今年2月完成了D轮融资，估值110亿美金 。很有意思的是，公司的产品与增长没有走垂直深耕的传统路线，而是以通用技术+多线产品快速扩张。把视频营销、系统化发布与渠道运营做成低成本增长杠杆，再通过组织的创新与 AI 赋能良性扩张。ElevenLabs 增长负责人 Luke Harries ，完整还了原其从 0 到百亿估值的实战打法。希望能为大家带来帮助！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
