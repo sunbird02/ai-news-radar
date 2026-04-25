@@ -1,35 +1,75 @@
 {
-  "generated_at": "2026-04-24T09:00:02.021399Z",
+  "generated_at": "2026-04-25T08:04:48.723013Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "latest_date": "2026-04-23",
-  "count_today": 4,
+  "latest_date": "2026-04-24",
+  "count_today": 6,
   "updates_today": [
     {
-      "date": "2026-04-23",
-      "title": "斯坦福学者通过海量职场数据，揭示了AI冲击职场的残酷真相。AI精准取代了入门级标准化执行工作，而资深从业者却凭借经验与综合能力站稳脚跟。未来职场或许将是人统筹方向、AI落地执行的全新模式。如果你关心的不只是“会不会被替代”，而是“职业的起点还在不在”，这期几乎每一句都值得划线。",
+      "date": "2026-04-24",
+      "title": "本篇深度对话对话顶尖青年AI学者王子涵，介绍了他的学术成长与DeepSeek实战经历。结合一线研发经验，他拆解了MoE模型优化、强化学习训练缺陷，剖析推理坍塌、环境噪声等行业共性难题，还给出了可落地的过滤优化方案。快来一探究竟！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-04-23",
-      "title": "OpenAI重磅上线Workspace Agents，依托Codex底层架构，可以快速搭建智能体，联动Slack、办公软件等多类工具，可以自动承接IT审核、产品反馈、周报统计、销售运维、风控排查等高频重复的工作。非技术人员也能自主搭建团队专属Agent。现阶段限时免费体验，快来试试！",
+      "date": "2026-04-24",
+      "title": "本篇文章带来一套百分百开源、支持本地自托管的深度研究技术栈。整合Onyx检索、CrewAI流程编排与Voxtral语音能力，通过分层隔离、迭代反思、多维度检索规避幻觉。整套方案代码完全开放、可以自由定制搭建，既能保障数据主权与合规性，又能低成本搭建高质量私有化AI研究工作流，快来上手试试！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-04-23",
-      "title": "Kieran 是 Kora 的产品负责人，他在这期对话里，和 Dan Shipper 讨论了一个越来越紧迫的问题：当 AI 能做的事越来越多，人类的位置在哪？Kieran 的答案是：人类不是被挤出去，而是变成\"三明治两端的面包\"——在最开始定义问题，在最后打磨作品，中间的执行让 AI 去填。整个对话的核心，就是在帮你找到你在 AI 时代的具体位置。",
+      "date": "2026-04-24",
+      "title": "大多数的AI架构设计都存在核心误区，复杂任务盲目堆砌多智能体，反而加剧了协作混乱与信息损耗。本篇文章带你厘清sub-agent与agent teams的底层区别，可以帮助你规避上下文断层、协调成本过高的问题，高效搭建轻量化、高稳定、易维护的智能体系统！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-04-23",
-      "title": "GPT-5.5 的核心意义，不是“更会答题”，而是更像一个能把复杂工作真正往前推进的执行型智能体。代码、知识工作、科研分析、网络安全全面进阶，400K 上下文支撑复杂任务，延迟不变、生成效率提升 20%，还助力数学难题取得新突破。今天已经开始向 ChatGPT 的 Plus、Pro、Business、Enterprise 用户滚动开放！",
+      "date": "2026-04-24",
+      "title": "做 AI / ML 并不需要数学博士学位。你只需要掌握足够的线性代数，这样在打开论文或 PyTorch 文档时，不会总觉得自己在迷雾里打转。这份路线图会按正确顺序告诉你该学什么，以及为什么它重要。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-24",
+      "title": "Anthropic Claude Code和Cowork的产品负责人Cat Wu和Boris Cherny搭档，带着团队把产品功能的交付周期从半年压到了一天 。在Lenny's Podcast最新一期中，Cat 聊了Anthropic内部的速度文化、PM 角色的剧变、源代码泄露的善后，以及那个让开源社区炸锅的OpenClaw封堵决定。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-24",
+      "title": "4月24日，备受期待的DeepSeek全新系列模型——DeepSeek-V4预览版，终于正式上线并同步开源。在业界长达数月的猜测与等待后，DeepSeek没有让大家失望：它带来了1M（百万）超长上下文的普惠标配、Agent能力的全面跃升，以及一次引人瞩目的国产化转身。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 31,
+  "count_7d": 32,
   "updates_7d": [
+    {
+      "date": "2026-04-24",
+      "title": "本篇深度对话对话顶尖青年AI学者王子涵，介绍了他的学术成长与DeepSeek实战经历。结合一线研发经验，他拆解了MoE模型优化、强化学习训练缺陷，剖析推理坍塌、环境噪声等行业共性难题，还给出了可落地的过滤优化方案。快来一探究竟！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-24",
+      "title": "本篇文章带来一套百分百开源、支持本地自托管的深度研究技术栈。整合Onyx检索、CrewAI流程编排与Voxtral语音能力，通过分层隔离、迭代反思、多维度检索规避幻觉。整套方案代码完全开放、可以自由定制搭建，既能保障数据主权与合规性，又能低成本搭建高质量私有化AI研究工作流，快来上手试试！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-24",
+      "title": "大多数的AI架构设计都存在核心误区，复杂任务盲目堆砌多智能体，反而加剧了协作混乱与信息损耗。本篇文章带你厘清sub-agent与agent teams的底层区别，可以帮助你规避上下文断层、协调成本过高的问题，高效搭建轻量化、高稳定、易维护的智能体系统！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-24",
+      "title": "做 AI / ML 并不需要数学博士学位。你只需要掌握足够的线性代数，这样在打开论文或 PyTorch 文档时，不会总觉得自己在迷雾里打转。这份路线图会按正确顺序告诉你该学什么，以及为什么它重要。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-24",
+      "title": "Anthropic Claude Code和Cowork的产品负责人Cat Wu和Boris Cherny搭档，带着团队把产品功能的交付周期从半年压到了一天 。在Lenny's Podcast最新一期中，Cat 聊了Anthropic内部的速度文化、PM 角色的剧变、源代码泄露的善后，以及那个让开源社区炸锅的OpenClaw封堵决定。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-04-24",
+      "title": "4月24日，备受期待的DeepSeek全新系列模型——DeepSeek-V4预览版，终于正式上线并同步开源。在业界长达数月的猜测与等待后，DeepSeek没有让大家失望：它带来了1M（百万）超长上下文的普惠标配、Agent能力的全面跃升，以及一次引人瞩目的国产化转身。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-04-23",
       "title": "斯坦福学者通过海量职场数据，揭示了AI冲击职场的残酷真相。AI精准取代了入门级标准化执行工作，而资深从业者却凭借经验与综合能力站稳脚跟。未来职场或许将是人统筹方向、AI落地执行的全新模式。如果你关心的不只是“会不会被替代”，而是“职业的起点还在不在”，这期几乎每一句都值得划线。",
@@ -158,31 +198,6 @@
     {
       "date": "2026-04-19",
       "title": "Claude Design依托原生代码结构，可以与开发很好地无缝协同，重构设计工作流。未来工具或许将分化为代码原生与纯创意探索两条路径，对设计师、产品团队而言，这不仅是工具更迭，更是效率与工作流的彻底升级！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-18",
-      "title": "阿里推出世界模型HappyOyster（快乐生蚝），支持一句话生成可漫游、可导演、可创造、可分享的交互式 3D 世界。用户能用 WASD 自由探索，生成中实时改剧情与镜头，还可以保存分享二创，实现从 “看视频” 到 “进世界” 的体验跃迁。目前处于内测阶段，来看看大聪明的全面测评与解读。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-18",
-      "title": "我们在制作AI视频的时候， 转场 这东西，很容易被忽略。很多新手写AI视频提示词，压根没想过\"这条视频和下一条之间怎么接\"，生成完了才发现拼不上。其实，不同方式的转场呈现的情绪和视觉效果是完全不一样的。小歪分享了6大类19种技巧+通用模板直接套用，快来上手试试！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-18",
-      "title": "我们可以蒸馏一个人，为什么不蒸馏他花了大量时间写的书呢？书是一个人花了大量时间沉淀下来的深度思考，是他反复推敲，实战沉淀下来的精华。蒸馏大佬们写的书，你能拿到他们的方法论，那是真正可落地的验证过的经验。于是我决定干一件事： 做一个能蒸馏任何书的 skill，然后让Agent帮我们把这些知识用起来！于是 仓颉.Skill 就这么诞生了",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-18",
-      "title": "Notion 的 Sarah Sachs 和 Simon Last。前者负责 Notion 的核心 AI 能力与基础设施，后者长期站在原型和 agent harness 的最前线。Notion要做的，并不是给文档软件外挂一个会聊天的助手，而是把企业记录工作、协作工作、检索工作、推进工作的底层系统，一点点改造成既能给人用，也能给 Agent 用。如果你正在做 AI 产品、企业软件，或者正在琢磨 MCP、Eval、检索和工作流自动化，这期对话的信息密度非常高。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-04-18",
-      "title": "Hermes Agent 是当前最前沿的开源 AI 智能体框架之一，其最大亮点是具备 “自我进化”能力，相比OpenClaw，Hermes Agent 得到了更精细的优化，而Hermes Agent没有对windows原生支持，经过两天的踩坑，终于跑出来两个能够在Windows中部署Hermes Agent的方式，以下是部署的两个教程。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
